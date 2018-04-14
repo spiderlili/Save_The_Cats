@@ -13,10 +13,10 @@ public class main_GameController : MonoBehaviour {
 	public GameObject splashScreen;
 	public GameObject startButton;
 	public main_CharController charController;
-    public GameObject gameOverImage;
-    public Image splashScreenImage;
-    public Image startButtonImage;
-    public bool played;
+    	public GameObject gameOverImage;
+    	public Image splashScreenImage;
+    	public Image startButtonImage;
+    	public bool played;
 
     private float maxWidth;
 	private bool counting;
